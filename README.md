@@ -1,4 +1,6 @@
 # Analysis-of-Spotify-s-Worldwide-Daily-Song-Ranking
+
+Data: https://www.kaggle.com/edumucelli/spotifys-worldwide-daily-song-ranking/data
 The dataset is contained in only one file. Each row contains a ranking position on a specific day for a song.
 
 For instance, the first 200 rows present the ranking for the 1st of January in Argentina. The following 200 rows will contain the ranking for the 2nd of January in Argentina. The regions are alphabetically sorted.
