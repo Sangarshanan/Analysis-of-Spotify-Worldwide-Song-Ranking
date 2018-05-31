@@ -10,5 +10,5 @@ For instance, the first 200 rows present the ranking for the 1st of January in A
 
 Be aware that Spotify's data was missing in very few occasions, so do not play with the 200-ish row interval as an offset as it may be misleading. Prefer to read everything and filter by region, date, so that you can be sure to have the required slices of data.
 
-I have analysed the trends in ranking and songs of my favourite artists like Ed sheeran, Camilla cabello, Shakira etc....
+I have analysed the trends in ranking and songs of my favourite artists like Ed sheeran, Camilla cabello, Shakira etc
 
